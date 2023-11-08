@@ -1,0 +1,25 @@
+
+# Valor inicial de x0 (valor supuesto)
+x0=5
+
+# Valor de precisión (delta)
+delt=0.00001 
+
+#Número de iteraciones
+n=15
+
+# Escritura de la función (cambiar por los valores deseados)
+f=function(x) x**3+4*x**2-1
+
+# Derivada de la función (calcular la derivada de la función anterior)
+df=function(x) 3*x**2+8*x
+
+# Ciclo de iteraciones y resultados
+for (i in 1:n) {
+  x1=x0-f(x0)/df(x0)
+  print(c(i,x0,x1)); error=abs(x1-x0)
+  if (error<delt){
+    cat("La solución converge en ",i , "iteraciones. raíz= ", x1);
+    break()}
+  x0=x1}
+print("Máximo número de iteraciones alcanzada !!!")
