@@ -1,0 +1,13 @@
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe.config
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\bin\Debug\Actividad 2.pdb
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.AssemblyReference.cache
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Menu.resources
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Properties.Resources.resources
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.GenerateResource.cache
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.CoreCompileInputs.cache
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad 2.exe
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad 2.pdb
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Datos_Personales.resources
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Operaciones_Basicas.resources
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Saludo.resources

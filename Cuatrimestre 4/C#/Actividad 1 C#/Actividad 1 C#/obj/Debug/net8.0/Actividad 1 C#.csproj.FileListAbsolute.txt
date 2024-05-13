@@ -1,0 +1,15 @@
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.AssemblyInfoInputs.cache
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.AssemblyInfo.cs
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.csproj.CoreCompileInputs.cache
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.sourcelink.json
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\bin\Debug\net8.0\Actividad 1 C#.exe
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\bin\Debug\net8.0\Actividad 1 C#.deps.json
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\bin\Debug\net8.0\Actividad 1 C#.runtimeconfig.json
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\bin\Debug\net8.0\Actividad 1 C#.dll
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\bin\Debug\net8.0\Actividad 1 C#.pdb
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.dll
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\refint\Actividad 1 C#.dll
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.pdb
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\Actividad 1 C#.genruntimeconfig.cache
+C:\Users\Just Gaming\Desktop\IDS\Cuatrimestre 4\C#\Actividad 1 C#\Actividad 1 C#\obj\Debug\net8.0\ref\Actividad 1 C#.dll
